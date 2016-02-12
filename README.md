@@ -4,7 +4,6 @@ meteor add poetic:meteor-appsee
 ```
 
 # Setup
-Add meteor.public
 ```
 // settings.json:
 {
